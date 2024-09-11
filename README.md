@@ -1,6 +1,6 @@
 # Bayliq (iOS App)
 
-Created by David Razmadze with the help of Nuno Mestre.
+Created by David Razmadze and Bhavesh Patel with the help of Nuno Mestre.
 
 ## Timeline
 
